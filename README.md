@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Next.js E-Library Platform  
 
 The **Next.js E-Library** is a full-stack web application designed to provide a seamless experience for users to browse, search, and download books. It features a robust admin dashboard that allows administrators to manage book content, user roles, and system settings efficiently. Built with **Next.js, PostgreSQL, Redis, and Auth.js**, this platform ensures high performance, scalability, and secure authentication.  
