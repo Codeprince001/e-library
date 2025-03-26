@@ -26,7 +26,7 @@ The **Next.js E-Library** is a full-stack web application designed to provide a 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/e-library/your-repo.git
-   cd your-repo
+   cd e-library
    ```  
 2. Install dependencies:  
    ```bash
