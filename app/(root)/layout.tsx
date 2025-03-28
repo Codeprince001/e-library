@@ -1,7 +1,8 @@
 import Header from '@/components/Header'
 import React, { ReactNode } from 'react'
+import '@/app/globals.css';
 
-type Props = {}
+
 
 const layout = ({children}: {children: ReactNode}) => {
   return (
